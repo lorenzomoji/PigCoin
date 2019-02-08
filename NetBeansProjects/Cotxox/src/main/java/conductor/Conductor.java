@@ -4,10 +4,12 @@ package conductor;
 
 public class Conductor {
     
-    String conductor = null;
-    String modelo = null;
-    String matricula = null;
-    int valoracionMedia = 0;
-    int [] valoraciones = null;
-    boolean ocupado = false;
+    private String conductor = null;
+    private String modelo = null;
+    private String matricula = null;
+    private int valoracionMedia = 0;
+    private int [] valoraciones = null;
+    private boolean ocupado = false;
+    
+    
 }

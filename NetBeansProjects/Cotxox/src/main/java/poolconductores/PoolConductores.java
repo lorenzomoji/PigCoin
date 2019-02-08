@@ -7,6 +7,13 @@ import conductor.Conductor;
 
 public class PoolConductores {
     
-    Conductor [] poolConductores = null;
+    private Conductor [] poolConductores = null;
     
+    public PoolConductores (Conductor [] poolcConductores) {
+        this.poolConductores = poolConductores;
+    }
+    
+    public Conductor[] getPoolConductores () {
+        return poolConductores;
+    }
 }
