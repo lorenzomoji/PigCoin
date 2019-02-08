@@ -1,14 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package carrera;
 
-/**
- *
- * @author mojim
- */
+
 public class Carrera {
+    
+    int tiempoEsperado = 0;
+    int tiempoCarrera = 0;
+    int costeTotal = 0;
+    String conductor = null;
     
 }

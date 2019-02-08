@@ -1,14 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package tarifa;
 
-/**
- *
- * @author mojim
- */
+
 public class Tarifa {
     
+    final double COSTE_MILLA = 1.35;
+    final double COSTE_MINUTO = 0.35;
+    final double COSTE_MINIMO = 5;
+    final double PORCENTAJE_COMISION = 0.2;
 }

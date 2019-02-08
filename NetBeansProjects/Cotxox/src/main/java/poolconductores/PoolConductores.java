@@ -1,14 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package poolconductores;
 
-/**
- *
- * @author mojim
- */
+import carrera.Carrera;
+import tarifa.Tarifa;
+import conductor.Conductor;
+
 public class PoolConductores {
+    
+    Conductor [] poolConductores = null;
     
 }
