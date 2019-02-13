@@ -1,5 +1,5 @@
 
-package transaction;
+package org.lasencinas.pigcoin;
 
 /**
  *
